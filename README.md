@@ -1,2 +1,1 @@
-# WOHI-WK-3
-LeeviKin
+# WOHI-WK-3 LeeviKin
