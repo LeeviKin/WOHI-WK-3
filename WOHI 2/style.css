@@ -1,0 +1,52 @@
+
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+    margin: 0 5px;
+}
+
+a{color: white;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    background-color:rgb(48, 47, 47);
+    color: rgb(255, 255, 255);
+    margin: 10px;
+    padding: 0;
+    font-weight: 700;
+    line-height: 1.6;
+}
+
+
+
+.profile-pic {
+    width: 150px;
+    border-radius: 50%;
+    margin-top: 10px;
+    border: 3px solid #fff;
+    margin-bottom: 20px;
+}
+
+.hobby-item {
+    color: #1b1a1a; 
+}
+
+.list-group-item a {
+    color: #1b1a1a; 
+}
+
+.table th {
+    background-color: #2980b9;
+    color: white; 
+}
+
+.table td {
+    background-color: #f9f9f9; 
+}
+
+h1 {
+    color: #16831b; 
+}
